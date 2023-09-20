@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -15,6 +14,15 @@
 - We are trying to understand the behaviour of our independent variables on our dependent variable i.e., cnt (Total no of bike rentals)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Technologies Used
+- NumPy
+- Pandas
+- matplotlib.pyplot, seaborn
+- sklearn
+- statsmodels
+- scipy
+
 
 ## Conclusions
 - Variables that are significant in predicting demand for shared bikes are - 
@@ -45,17 +53,6 @@
     - Less People choose rental bikes during high windspeed
     - Less People choose rental bikes during light rain
     - Less People choose rental bikes during high humidity
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- NumPy
-- Pandas
-- matplotlib.pyplot, seaborn
-- sklearn
-- statsmodels
-- scipy
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
